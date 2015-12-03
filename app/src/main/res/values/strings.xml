@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turn It Up!</string>
+    <string name="menu_shuffle">Shuffle</string>
+    <string name="shuffle_on">Shuffle Mode On</string>
+    <string name="shuffle_off">Shuffle Mode Off</string>
+
+</resources>
